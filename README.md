@@ -142,6 +142,4 @@ QQ群文件：655402626（GPT+千人QQ大群）
 ![zw-GPT三合一+群二维码v2](https://github.com/ziwang-com/AGI-MAP/assets/11691791/433a84bc-0584-45ae-af53-0e231eeef41c)
 
 
-![image](https://github.com/ziwang-com/AMGM/assets/11691791/735d99d0-918d-424d-a5a8-9a47771218b0)
-
 ![zwagi- (4)](https://github.com/ziwang-com/AGM/assets/11691791/62b90c0d-8d2b-4d5b-9655-ff3c2125c2bb)
