@@ -124,6 +124,24 @@ AGM阿格姆：AI权重粒子模型，无论是工程项目，还有相关的理
 
 联系方式：微信：zwpython，或扫描二维码。QQ：357811718（zw字王） 联系信息注明：AMGM阿格姆合作。
 
+# 【智王AI资源库】
+
+智王mini-AGI开源项目以及相关模块库，均在【智王AI资源库】提供免费下载。
+
+百度网盘提取码：hiks
+
+[https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks](https://pan.baidu.com/s/1EH19ablXVLYQP1f-IaPS-Q?pwd=hiks)
+
+如有更改，最新下载地址请参见: 
+
+QQ群文件：655402626（GPT+千人QQ大群）
+
+更多细节，参见公众号。欢迎加入：QQ群，微信群。
+
+
+![zw-GPT三合一+群二维码v2](https://github.com/ziwang-com/AGI-MAP/assets/11691791/433a84bc-0584-45ae-af53-0e231eeef41c)
+
+
 ![image](https://github.com/ziwang-com/AMGM/assets/11691791/735d99d0-918d-424d-a5a8-9a47771218b0)
 
 ![zwagi- (4)](https://github.com/ziwang-com/AGM/assets/11691791/62b90c0d-8d2b-4d5b-9655-ff3c2125c2bb)
