@@ -12,6 +12,16 @@ AGM阿格姆，目标，未来和意义是：成为下一代AI模型标准指定
 
 如果你在寻找一个伟大的项目，AGM就是。
 
+AI Token Weighted Particle Model An AI Weighted Particle Graph Model Based on Token Weight Relationships
+
+The AGM Agum project, also known as the AI Token Weight Particle Model, is based on the AI model token weight relationship and internal microstructure graph model. AGM Agam Project, formerly known as AI Gene Model, is an AI gene weight map model similar to the DNA gene map in the field of AI bioinformatics. To avoid confusion with AI healthcare projects, it has been renamed as AI Weighted Particle Model.
+
+AGM Agum's goal, future, and significance are to become a designated participant in the next generation AI model standard.
+
+Project website: https://github.com/ziwang-com/AGM
+
+If you are looking for a great project, AGM is.
+
 ### 吉祥物：阿格姆。
 
 阿格姆，不象其他开源项目，特别是llm项目，都是温驯的乖宝宝。
